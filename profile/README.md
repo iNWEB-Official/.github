@@ -6,6 +6,9 @@
     <a href="https://github.com/iNWEB-Official/iNWEB-Browser/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/iNWEB-Official/iNWEB-Browser?style=flat&label=%E2%AD%90%20stars&color=7c5cff&labelColor=1a2330"/></a>&nbsp;
     <img alt="location" src="https://img.shields.io/badge/%F0%9F%93%8D%20Pabna%2C%20Bangladesh-3fb950?style=flat&labelColor=1a2330"/>
   </p>
+  <p>
+    <a href="https://inweb-official.github.io"><img alt="View Live UI/UX" src="https://img.shields.io/badge/%F0%9F%8E%A8_View_Live_UI%2FUX_%E2%80%94_inweb--official.github.io-4f8ff7?style=for-the-badge&labelColor=0a0e13"/></a>
+  </p>
 </div>
 
 > [!NOTE]
